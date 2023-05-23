@@ -1,0 +1,103 @@
+.ab {
+    text-align: center;
+    color: rgb(164, 161, 47);
+    size: 60px;
+    padding-top: 100px;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    width:  200px;
+    height: 150px;
+    
+    
+}
+.abc  {
+       text-align: center;
+       color:black;
+       size: 50;
+       /* margin: 100px; */
+       padding-top: 50px ;
+ }
+ /* .mn {
+      text-align: center;
+      color: blueviolet;
+      size: 70px;
+      box-sizing: border-box; */
+ 
+ .background-image {
+  position: relative;
+  background-image: url("https://D:\inovus labs\flower.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+ }
+ .qq {
+    background-color: #cac41e;
+    border: 6px;;
+    color: rgb(218, 80, 80);
+    padding: 15px 32px;
+    text-align: center;
+    align-items: center;
+    /* margin-left: 100px; */
+    text-decoration: tomato;
+    display: inline-block;
+    font-size: 16px;
+  }
+.click{
+    /* margin-left: 100px; */
+    text-align-last: center;
+}
+
+
+.navbar { 
+  font-size: large;
+  font-style: oblique;
+
+  }
+  .about-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(19, 19, 18);
+    padding-bottom: 20px;
+}
+.about-photo {
+    flex: 0 0 300px; /* Set the width of the photo container */
+}
+.about-content {
+    flex: 1; /* Let the content take remaining width */
+    padding-left: 30px; /* Add some spacing between the photo and content */
+}
+
+.col-md-8 {
+    text-align:center;
+    margin-top: 30%;
+    
+    margin-left: 20%;
+    padding-top: -50px;
+}
+.we{
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 150px;
+    
+
+}
+.un0{
+    text-align-last: center;
+    /* text-align: center; */
+    padding-left: 90px;
+    padding-bottom: 20%;
+}
+.roow{
+    margin-top: -190px;
+}    
+
